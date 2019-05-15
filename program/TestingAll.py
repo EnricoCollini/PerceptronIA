@@ -1,0 +1,8 @@
+import BankDatasetPlotResults
+import DiabeticDatasetPlotResults
+import HTRUDatasetPlotReslts
+
+
+BankDatasetPlotResults.plotResults()
+DiabeticDatasetPlotResults.plotResults()
+HTRUDatasetPlotReslts.plotResults()
